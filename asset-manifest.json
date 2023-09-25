@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PHrodidriguez/CepSearch/static/css/main.f494b986.css",
-    "main.js": "/PHrodidriguez/CepSearch/static/js/main.48ed9f37.js",
-    "static/js/787.67b2541e.chunk.js": "/PHrodidriguez/CepSearch/static/js/787.67b2541e.chunk.js",
-    "index.html": "/PHrodidriguez/CepSearch/index.html",
-    "main.f494b986.css.map": "/PHrodidriguez/CepSearch/static/css/main.f494b986.css.map",
-    "main.48ed9f37.js.map": "/PHrodidriguez/CepSearch/static/js/main.48ed9f37.js.map",
-    "787.67b2541e.chunk.js.map": "/PHrodidriguez/CepSearch/static/js/787.67b2541e.chunk.js.map"
+    "main.css": "/phrodidriguez/cepsearch/static/css/main.f494b986.css",
+    "main.js": "/phrodidriguez/cepsearch/static/js/main.71647e5c.js",
+    "static/js/787.56e7c5d8.chunk.js": "/phrodidriguez/cepsearch/static/js/787.56e7c5d8.chunk.js",
+    "index.html": "/phrodidriguez/cepsearch/index.html",
+    "main.f494b986.css.map": "/phrodidriguez/cepsearch/static/css/main.f494b986.css.map",
+    "main.71647e5c.js.map": "/phrodidriguez/cepsearch/static/js/main.71647e5c.js.map",
+    "787.56e7c5d8.chunk.js.map": "/phrodidriguez/cepsearch/static/js/787.56e7c5d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f494b986.css",
-    "static/js/main.48ed9f37.js"
+    "static/js/main.71647e5c.js"
   ]
 }
